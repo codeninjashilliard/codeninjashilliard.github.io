@@ -1,5 +1,3 @@
-Code Ninjas | The Woodlands | Jackson Hagood
-
 Encyclopedia for all of the pre-written
 functions within the Game Development
 Platform (Currently up to Orange Belt).
@@ -16,10 +14,7 @@ link between themselves.
 Green Belt content will be added as the
 tool gets used more.
 
-This is meant to be used as an offline file 
-on student's computers. This will NOT be 
-used as a live webpage accessible on the 
-internet. The tool has been made in HTML
+The tool has been made in HTML
 for the sole purpose of making it easier 
 for ninjas to use.
 
